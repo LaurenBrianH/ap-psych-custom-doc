@@ -1,0 +1,6 @@
+# Required — Typst compiler bindings (compile + query)
+typst>=0.13
+
+# Optional — enables the AST-based extraction backend in build/extract_bodies.py.
+# Without it, the carefully written bracket-aware scanner fallback is used.
+# tree-sitter-typst>=0.5

@@ -1,0 +1,9 @@
+{
+  "name": "Example Student",
+  "title": "Units 1-2 Review: Neurons & Memory",
+  "ids": ["bio-neuron-structure", "cog-encoding-storage-retrieval"],
+  "units": [1, 2],
+  "tags": ["memory", "neuron"],
+  "difficulty": ["core", "standard"],
+  "exclude_ids": ["cog-forgetting"]
+}
